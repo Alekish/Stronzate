@@ -18,6 +18,6 @@
 -Creato un foglio ndo butta i link di varia roba.  
 
 **Update 1.2:**  
--Aggiunto roba al foglio links.md
+-Aggiunto roba al foglio links.md  
 -Censurato le bestemmione potentissimi CENSURA  
 -Formattato "meglio" il README.md
