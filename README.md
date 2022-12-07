@@ -4,3 +4,5 @@
 Se aggiungete roba, scrivete qua sotto cosa aggiungete, tipo:
 
 update 0: *aggiunto un file in c++ che stampa porco dio all'infinito*
+
+update 0.1: *aggiunto un file in c++ che stampa sium e scoreggia... mi odio...*
