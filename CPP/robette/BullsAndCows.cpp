@@ -1,6 +1,6 @@
 // BULLS AND COWS
 // BY ALESSANDRO FELICI!
-#include "std_lib_facilities.h"  // libreria standard con alcune aggiunte (scritta da Bjarne Stroustrup)
+#include "../std_lib_facilities.h"  // libreria standard con alcune aggiunte (scritta da Bjarne Stroustrup)
 
 int main()
 {
