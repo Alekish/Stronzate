@@ -1,13 +1,23 @@
 # Stronzate
-## Le cazzate mie, di Save e di Gio
+### Le cazzate mie, di Save e di Gio
 
-Se aggiungete roba, scrivete qua sotto cosa aggiungete, tipo:
+**Se aggiungete roba, scrivete qua sotto cosa aggiungete, tipo:**  
 
-update 0: *aggiunto un file in c++ che stampa porco dio all'infinito*
+**Update 0:**  
+-Aggiunto un file in c++ che stampa CENSURA all'infinito  
 
-update 0.1: *aggiunto un file in c++ che stampa sium e scoreggia... mi odio...*
+**Update 0.1:**  
+-Aggiunto un file in c++ che stampa sium e scoreggia... mi odio...  
 
-update 1: ho fatto robette fighe, vi ho messo una libreria che è molto figa e vi ho messo un mio programma
-tutto commentato che è un piccolo "guessing game"
+**Update 1:**  
+-Ho fatto robette fighe...  
+-vi ho messo una libreria che è molto figa e  
+-vi ho messo un mio programma tutto commentato  
 
-update 1.1: creato un foglio ndo butta i link di varia roba
+**Update 1.1:**  
+-Creato un foglio ndo butta i link di varia roba.  
+
+**Update 1.2:**  
+-Aggiunto roba al foglio links.md
+-Censurato le bestemmione potentissimi CENSURA  
+-Formattato "meglio" il README.md
