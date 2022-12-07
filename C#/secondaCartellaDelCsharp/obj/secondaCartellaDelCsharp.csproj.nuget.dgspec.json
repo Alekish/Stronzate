@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "S:\\DEVELOSP\\~GitHub\\Stronzate\\C#\\secondaCartellaDelCsharp\\secondaCartellaDelCsharp.csproj": {}
+  },
+  "projects": {
+    "S:\\DEVELOSP\\~GitHub\\Stronzate\\C#\\secondaCartellaDelCsharp\\secondaCartellaDelCsharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "S:\\DEVELOSP\\~GitHub\\Stronzate\\C#\\secondaCartellaDelCsharp\\secondaCartellaDelCsharp.csproj",
+        "projectName": "secondaCartellaDelCsharp",
+        "projectPath": "S:\\DEVELOSP\\~GitHub\\Stronzate\\C#\\secondaCartellaDelCsharp\\secondaCartellaDelCsharp.csproj",
+        "packagesPath": "C:\\Users\\Alessandro\\.nuget\\packages\\",
+        "outputPath": "S:\\DEVELOSP\\~GitHub\\Stronzate\\C#\\secondaCartellaDelCsharp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alessandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

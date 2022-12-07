@@ -1,0 +1,15 @@
+S:\DEVELOSP\~GitHub\Stronzate\C#\secondaCartellaDelCsharp\bin\Debug\net7.0\secondaCartellaDelCsharp.exe
+S:\DEVELOSP\~GitHub\Stronzate\C#\secondaCartellaDelCsharp\bin\Debug\net7.0\secondaCartellaDelCsharp.deps.json
+S:\DEVELOSP\~GitHub\Stronzate\C#\secondaCartellaDelCsharp\bin\Debug\net7.0\secondaCartellaDelCsharp.runtimeconfig.json
+S:\DEVELOSP\~GitHub\Stronzate\C#\secondaCartellaDelCsharp\bin\Debug\net7.0\secondaCartellaDelCsharp.dll
+S:\DEVELOSP\~GitHub\Stronzate\C#\secondaCartellaDelCsharp\bin\Debug\net7.0\secondaCartellaDelCsharp.pdb
+S:\DEVELOSP\~GitHub\Stronzate\C#\secondaCartellaDelCsharp\obj\Debug\net7.0\secondaCartellaDelCsharp.csproj.AssemblyReference.cache
+S:\DEVELOSP\~GitHub\Stronzate\C#\secondaCartellaDelCsharp\obj\Debug\net7.0\secondaCartellaDelCsharp.GeneratedMSBuildEditorConfig.editorconfig
+S:\DEVELOSP\~GitHub\Stronzate\C#\secondaCartellaDelCsharp\obj\Debug\net7.0\secondaCartellaDelCsharp.AssemblyInfoInputs.cache
+S:\DEVELOSP\~GitHub\Stronzate\C#\secondaCartellaDelCsharp\obj\Debug\net7.0\secondaCartellaDelCsharp.AssemblyInfo.cs
+S:\DEVELOSP\~GitHub\Stronzate\C#\secondaCartellaDelCsharp\obj\Debug\net7.0\secondaCartellaDelCsharp.csproj.CoreCompileInputs.cache
+S:\DEVELOSP\~GitHub\Stronzate\C#\secondaCartellaDelCsharp\obj\Debug\net7.0\secondaCartellaDelCsharp.dll
+S:\DEVELOSP\~GitHub\Stronzate\C#\secondaCartellaDelCsharp\obj\Debug\net7.0\refint\secondaCartellaDelCsharp.dll
+S:\DEVELOSP\~GitHub\Stronzate\C#\secondaCartellaDelCsharp\obj\Debug\net7.0\secondaCartellaDelCsharp.pdb
+S:\DEVELOSP\~GitHub\Stronzate\C#\secondaCartellaDelCsharp\obj\Debug\net7.0\secondaCartellaDelCsharp.genruntimeconfig.cache
+S:\DEVELOSP\~GitHub\Stronzate\C#\secondaCartellaDelCsharp\obj\Debug\net7.0\ref\secondaCartellaDelCsharp.dll
