@@ -26,3 +26,7 @@
 **Update 1.3:**  
 -Fixata la cartella C#  
 -Aggiunto un calcolatore in C++ (ancora da commentare)  
+
+**Update 1.4:**  
+-Creata cartella PYTHON   
+-Programma .py che stampa CENSURA all'infinito  
