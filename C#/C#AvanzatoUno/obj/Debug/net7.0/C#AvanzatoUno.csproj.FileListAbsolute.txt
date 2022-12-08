@@ -1,0 +1,15 @@
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\C#\C#AvanzatoUno\obj\Debug\net7.0\C#AvanzatoUno.csproj.AssemblyReference.cache
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\C#\C#AvanzatoUno\obj\Debug\net7.0\C#AvanzatoUno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\C#\C#AvanzatoUno\obj\Debug\net7.0\C#AvanzatoUno.AssemblyInfoInputs.cache
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\C#\C#AvanzatoUno\obj\Debug\net7.0\C#AvanzatoUno.AssemblyInfo.cs
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\C#\C#AvanzatoUno\obj\Debug\net7.0\C#AvanzatoUno.csproj.CoreCompileInputs.cache
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\C#\C#AvanzatoUno\bin\Debug\net7.0\C#AvanzatoUno.exe
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\C#\C#AvanzatoUno\bin\Debug\net7.0\C#AvanzatoUno.deps.json
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\C#\C#AvanzatoUno\bin\Debug\net7.0\C#AvanzatoUno.runtimeconfig.json
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\C#\C#AvanzatoUno\bin\Debug\net7.0\C#AvanzatoUno.dll
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\C#\C#AvanzatoUno\bin\Debug\net7.0\C#AvanzatoUno.pdb
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\C#\C#AvanzatoUno\obj\Debug\net7.0\C#AvanzatoUno.dll
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\C#\C#AvanzatoUno\obj\Debug\net7.0\refint\C#AvanzatoUno.dll
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\C#\C#AvanzatoUno\obj\Debug\net7.0\C#AvanzatoUno.pdb
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\C#\C#AvanzatoUno\obj\Debug\net7.0\C#AvanzatoUno.genruntimeconfig.cache
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\C#\C#AvanzatoUno\obj\Debug\net7.0\ref\C#AvanzatoUno.dll
