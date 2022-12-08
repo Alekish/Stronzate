@@ -227,6 +227,7 @@ int main() {
 try
 {   
     cout << "Welcome to the calculator de cristo!\n";
+
     calculate();
 
     keep_window_open("ADDIOS");
