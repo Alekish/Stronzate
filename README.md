@@ -1,5 +1,6 @@
-# Stronzate
-### Le cazzate mie, di Save e di Gio
+# Stronzate  
+
+### Le cazzate mie, di Save e di Gio  
 
 **Se aggiungete roba, scrivete qua sotto cosa aggiungete, tipo:**  
 
@@ -20,4 +21,8 @@
 **Update 1.2:**  
 -Aggiunto roba al foglio links.md  
 -Censurato le bestemmione potentissimi CENSURA  
--Formattato "meglio" il README.md
+-Formattato "meglio" il README.md  
+
+**Update 1.3:**  
+-Fixata la cartella C#  
+-Aggiunto un calcolatore in C++ (ancora da commentare)  
