@@ -229,7 +229,7 @@ try
     cout << "Welcome to the calculator de cristo!\n";
     calculate();
 
-    keep_window_open();
+    keep_window_open("ADDIOS");
     return 0;
 }
 catch(exception&e)
