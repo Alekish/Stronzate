@@ -11,10 +11,19 @@ Se avete **un ora** da perdere (guardatelo in x1.25 almeno):
 -[GIT AND GITHUB FOR BEGINNERS](https://www.youtube.com/watch?v=RGOj5yH7evk)
 
 (io ho visto velocemente ieri a l'una di notte i primi due, mo sto a da n'occhiata a quello da un'ora)  
+
+### HARVARD CS-50
+
+Corso di informatica di **Harvard**... **GRATIS**...  
+Guardatelo, no?  
+-[Harvard CS50 2021 (playlist)](https://www.youtube.com/watch?v=NZxALvNlF-8&list=PLhQjrBD2T383f9scHRNYJkior2VvYjpSL)  
+-[Harvard CS50 2021 (mattone)](https://www.youtube.com/watch?v=8mAITcNt710)  
+-[Harvard CS50 2020 (playlist)](https://www.youtube.com/watch?v=YoXxevp1WRQ&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8)  
+So tutti uguali più o meno, sceglietene uno e partite.  
   
 ### Free reference manuals  
  
-Ringrazio Alessandro Gheojan (è romeno) per avermi fatto scopri sto sito:    
+Ringrazio Alessandro Gheojan per avermi fatto scopri sto sito:    
 -[Programming Notes for Professionals books](https://goalkicker.com)  
 È na figata, ha manuali di **tutto**  
 (sono molto tecnici e richiedono forse qualche conoscenza pregressa)  
