@@ -43,15 +43,17 @@
 
 #include "../std_lib_facilities.h"
 
+const char number = '8';
+const char print = ';';
+const char quit = 'q';
+const string prompt = "> ";
+const string result = "= ";
+
 class Token{
 public:
     char kind;
     double value;
 };
-
-const char number = '8';
-const char print = ';';
-const char quit = 'q';
 
 class Token_stream{
 public:
@@ -199,8 +201,6 @@ void clean_up_mess(){
     ts.ignore(print);
 }
 
-const string prompt = "> ";
-const string result = "= ";
 
 void calculate(){
 try{
@@ -218,7 +218,7 @@ try{
     }
 }
 catch(exception&e){
-    cerr << e.what() << "\n";
+    cerr << "calculation error: " << e.what() << "\n";
     clean_up_mess();
 }
 }
