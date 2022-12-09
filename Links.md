@@ -1,6 +1,6 @@
 # Salviamo qui dei link utili se volete  
 
-***
+---  
 
 ### Git and Github stuff  
 
@@ -24,6 +24,7 @@ Guardatelo, no?
 -[Harvard CS50 2021 (mattone)](https://www.youtube.com/watch?v=8mAITcNt710)  
 -[Harvard CS50 2020 (playlist)](https://www.youtube.com/watch?v=YoXxevp1WRQ&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8)  
 So tutti uguali più o meno, sceglietene uno e partite.  
+*Still meglio de ncalcio in culo, no?*  
 
 ***
   
