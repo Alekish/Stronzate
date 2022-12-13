@@ -1,0 +1,15 @@
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\MAIN PROGRAMS\C#\C#AvanzatoTre\bin\Debug\net7.0\C#AvanzatoTre.exe
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\MAIN PROGRAMS\C#\C#AvanzatoTre\bin\Debug\net7.0\C#AvanzatoTre.deps.json
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\MAIN PROGRAMS\C#\C#AvanzatoTre\bin\Debug\net7.0\C#AvanzatoTre.runtimeconfig.json
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\MAIN PROGRAMS\C#\C#AvanzatoTre\bin\Debug\net7.0\C#AvanzatoTre.dll
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\MAIN PROGRAMS\C#\C#AvanzatoTre\bin\Debug\net7.0\C#AvanzatoTre.pdb
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\MAIN PROGRAMS\C#\C#AvanzatoTre\obj\Debug\net7.0\C#AvanzatoTre.csproj.AssemblyReference.cache
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\MAIN PROGRAMS\C#\C#AvanzatoTre\obj\Debug\net7.0\C#AvanzatoTre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\MAIN PROGRAMS\C#\C#AvanzatoTre\obj\Debug\net7.0\C#AvanzatoTre.AssemblyInfoInputs.cache
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\MAIN PROGRAMS\C#\C#AvanzatoTre\obj\Debug\net7.0\C#AvanzatoTre.AssemblyInfo.cs
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\MAIN PROGRAMS\C#\C#AvanzatoTre\obj\Debug\net7.0\C#AvanzatoTre.csproj.CoreCompileInputs.cache
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\MAIN PROGRAMS\C#\C#AvanzatoTre\obj\Debug\net7.0\C#AvanzatoTre.dll
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\MAIN PROGRAMS\C#\C#AvanzatoTre\obj\Debug\net7.0\refint\C#AvanzatoTre.dll
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\MAIN PROGRAMS\C#\C#AvanzatoTre\obj\Debug\net7.0\C#AvanzatoTre.pdb
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\MAIN PROGRAMS\C#\C#AvanzatoTre\obj\Debug\net7.0\C#AvanzatoTre.genruntimeconfig.cache
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\MAIN PROGRAMS\C#\C#AvanzatoTre\obj\Debug\net7.0\ref\C#AvanzatoTre.dll
