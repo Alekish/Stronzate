@@ -1,0 +1,15 @@
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\MAIN PROGRAMS\C#\C#AvanazatoQuattro\obj\Debug\net7.0\C#AvanazatoQuattro.csproj.AssemblyReference.cache
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\MAIN PROGRAMS\C#\C#AvanazatoQuattro\obj\Debug\net7.0\C#AvanazatoQuattro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\MAIN PROGRAMS\C#\C#AvanazatoQuattro\obj\Debug\net7.0\C#AvanazatoQuattro.AssemblyInfoInputs.cache
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\MAIN PROGRAMS\C#\C#AvanazatoQuattro\obj\Debug\net7.0\C#AvanazatoQuattro.AssemblyInfo.cs
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\MAIN PROGRAMS\C#\C#AvanazatoQuattro\obj\Debug\net7.0\C#AvanazatoQuattro.csproj.CoreCompileInputs.cache
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\MAIN PROGRAMS\C#\C#AvanazatoQuattro\bin\Debug\net7.0\C#AvanazatoQuattro.exe
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\MAIN PROGRAMS\C#\C#AvanazatoQuattro\bin\Debug\net7.0\C#AvanazatoQuattro.deps.json
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\MAIN PROGRAMS\C#\C#AvanazatoQuattro\bin\Debug\net7.0\C#AvanazatoQuattro.runtimeconfig.json
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\MAIN PROGRAMS\C#\C#AvanazatoQuattro\bin\Debug\net7.0\C#AvanazatoQuattro.dll
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\MAIN PROGRAMS\C#\C#AvanazatoQuattro\bin\Debug\net7.0\C#AvanazatoQuattro.pdb
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\MAIN PROGRAMS\C#\C#AvanazatoQuattro\obj\Debug\net7.0\C#AvanazatoQuattro.dll
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\MAIN PROGRAMS\C#\C#AvanazatoQuattro\obj\Debug\net7.0\refint\C#AvanazatoQuattro.dll
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\MAIN PROGRAMS\C#\C#AvanazatoQuattro\obj\Debug\net7.0\C#AvanazatoQuattro.pdb
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\MAIN PROGRAMS\C#\C#AvanazatoQuattro\obj\Debug\net7.0\C#AvanazatoQuattro.genruntimeconfig.cache
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\MAIN PROGRAMS\C#\C#AvanazatoQuattro\obj\Debug\net7.0\ref\C#AvanazatoQuattro.dll
