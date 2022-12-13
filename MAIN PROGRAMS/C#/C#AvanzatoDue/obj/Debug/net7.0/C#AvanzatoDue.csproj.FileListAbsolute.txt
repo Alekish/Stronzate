@@ -1,0 +1,15 @@
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\MAIN PROGRAMS\C#\C#AvanzatoDue\bin\Debug\net7.0\C#AvanzatoDue.exe
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\MAIN PROGRAMS\C#\C#AvanzatoDue\bin\Debug\net7.0\C#AvanzatoDue.deps.json
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\MAIN PROGRAMS\C#\C#AvanzatoDue\bin\Debug\net7.0\C#AvanzatoDue.runtimeconfig.json
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\MAIN PROGRAMS\C#\C#AvanzatoDue\bin\Debug\net7.0\C#AvanzatoDue.dll
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\MAIN PROGRAMS\C#\C#AvanzatoDue\bin\Debug\net7.0\C#AvanzatoDue.pdb
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\MAIN PROGRAMS\C#\C#AvanzatoDue\obj\Debug\net7.0\C#AvanzatoDue.csproj.AssemblyReference.cache
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\MAIN PROGRAMS\C#\C#AvanzatoDue\obj\Debug\net7.0\C#AvanzatoDue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\MAIN PROGRAMS\C#\C#AvanzatoDue\obj\Debug\net7.0\C#AvanzatoDue.AssemblyInfoInputs.cache
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\MAIN PROGRAMS\C#\C#AvanzatoDue\obj\Debug\net7.0\C#AvanzatoDue.AssemblyInfo.cs
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\MAIN PROGRAMS\C#\C#AvanzatoDue\obj\Debug\net7.0\C#AvanzatoDue.csproj.CoreCompileInputs.cache
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\MAIN PROGRAMS\C#\C#AvanzatoDue\obj\Debug\net7.0\C#AvanzatoDue.dll
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\MAIN PROGRAMS\C#\C#AvanzatoDue\obj\Debug\net7.0\refint\C#AvanzatoDue.dll
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\MAIN PROGRAMS\C#\C#AvanzatoDue\obj\Debug\net7.0\C#AvanzatoDue.pdb
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\MAIN PROGRAMS\C#\C#AvanzatoDue\obj\Debug\net7.0\C#AvanzatoDue.genruntimeconfig.cache
+C:\Users\giorg\Desktop\Passatempo\Git\Stronzate\Stronzate\MAIN PROGRAMS\C#\C#AvanzatoDue\obj\Debug\net7.0\ref\C#AvanzatoDue.dll

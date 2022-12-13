@@ -34,11 +34,17 @@ public int proprietàDiProva {get; set;} = 100; //Inizializzo la variabile a 100
 //La proprietà Read-Only oppure Wrtite-Only
 
 
+//INIT keycode: Il keycode "init" agisce come il keycode "readonly" ma può essere settato in fase di inizializzazione:
+
+public int provaInit  {get; init;} = 20; //Proprietà con keycode "init"
+//se un valore verrà settato in fase di inizializzazione la proprietà avrà valore scelto, sennò avrà come valore 20
+
+
 
     // _____________ MAIN ______________ \\
 public static void Main(string[] args)
 {
-    Avanzato alekish = new Avanzato();
+    Avanzato alekish = new Avanzato{ provaInit = 90 }; //Inizializzazione proprietà con keycode "init" line 39
     Console.WriteLine("La variabile in Read-Only è: " + alekish.ReadOnly);
     alekish.expressionBodied = 90;
     Console.WriteLine("La variabile in Expression Bodied" + alekish.expressionBodied);
@@ -46,5 +52,6 @@ public static void Main(string[] args)
     alekish.automaticProprieties += 800;
     Console.WriteLine("La variabile di automaticProprieties è: " + alekish.automaticProprieties);
     Console.WriteLine("La variabile della proprietàDiProva è: " + alekish.proprietàDiProva);
+    Console.WriteLine("La variabile in provaInit è: " +  alekish.provaInit);
 }
 }

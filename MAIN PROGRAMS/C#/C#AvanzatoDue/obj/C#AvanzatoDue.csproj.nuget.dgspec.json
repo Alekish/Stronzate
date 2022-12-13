@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\giorg\\Desktop\\Passatempo\\Git\\Stronzate\\Stronzate\\MAIN PROGRAMS\\C#\\C#AvanzatoUno\\C#AvanzatoUno.csproj": {}
+    "C:\\Users\\giorg\\Desktop\\Passatempo\\Git\\Stronzate\\Stronzate\\MAIN PROGRAMS\\C#\\C#AvanzatoDue\\C#AvanzatoDue.csproj": {}
   },
   "projects": {
-    "C:\\Users\\giorg\\Desktop\\Passatempo\\Git\\Stronzate\\Stronzate\\MAIN PROGRAMS\\C#\\C#AvanzatoUno\\C#AvanzatoUno.csproj": {
+    "C:\\Users\\giorg\\Desktop\\Passatempo\\Git\\Stronzate\\Stronzate\\MAIN PROGRAMS\\C#\\C#AvanzatoDue\\C#AvanzatoDue.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\giorg\\Desktop\\Passatempo\\Git\\Stronzate\\Stronzate\\MAIN PROGRAMS\\C#\\C#AvanzatoUno\\C#AvanzatoUno.csproj",
-        "projectName": "C#AvanzatoUno",
-        "projectPath": "C:\\Users\\giorg\\Desktop\\Passatempo\\Git\\Stronzate\\Stronzate\\MAIN PROGRAMS\\C#\\C#AvanzatoUno\\C#AvanzatoUno.csproj",
+        "projectUniqueName": "C:\\Users\\giorg\\Desktop\\Passatempo\\Git\\Stronzate\\Stronzate\\MAIN PROGRAMS\\C#\\C#AvanzatoDue\\C#AvanzatoDue.csproj",
+        "projectName": "C#AvanzatoDue",
+        "projectPath": "C:\\Users\\giorg\\Desktop\\Passatempo\\Git\\Stronzate\\Stronzate\\MAIN PROGRAMS\\C#\\C#AvanzatoDue\\C#AvanzatoDue.csproj",
         "packagesPath": "C:\\Users\\giorg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\giorg\\Desktop\\Passatempo\\Git\\Stronzate\\Stronzate\\MAIN PROGRAMS\\C#\\C#AvanzatoUno\\obj\\",
+        "outputPath": "C:\\Users\\giorg\\Desktop\\Passatempo\\Git\\Stronzate\\Stronzate\\MAIN PROGRAMS\\C#\\C#AvanzatoDue\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\giorg\\AppData\\Roaming\\NuGet\\NuGet.Config"
