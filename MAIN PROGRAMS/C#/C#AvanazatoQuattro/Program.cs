@@ -12,7 +12,24 @@ a = (int) b;    //Downcasting, metodo lecito ed esplicito
 
 //AS OPERATOR
 //l'operatore as effettua downcast in null se il downcast da effettuare è impossibilitato
-string c = null;
-string d = c as string;
+string? c = null;
+string? d = c as string; //? = nullable
 Console.WriteLine(d); //Non stamperà nulla
+
+Aula La1 = new Aula();
+Console.WriteLine(La1.punteggio);
+Università informatica = new Università();
+Console.WriteLine(informatica.punteggio);
+
+//VIRTUAL KEYCODE
+public class Università{
+    public string facolta = "Informatica";
+    public virtual int punteggio => 90; //Il virtual keycode è necessario per eseguire un override. un override può essere eseguito
+    //                                    Su una variabile o su un metodo di una classe
+}
+public class Aula : Università{ //Aula eredita la classe Università
+    public string classe = "Classe LA1";
+    public override int punteggio => 900; //Override serve per sovrascrivere una variaabile o un metodo virtual, qualsiasi Aula avrà
+    //                                      Come punteggio 900 al posto di 90
+}
 

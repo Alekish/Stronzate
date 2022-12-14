@@ -34,7 +34,7 @@ class StaticConstructor{ //Lo static constructor viene eseguito una volta e non 
     static int a; //le variabili devono essere statiche
     static StaticConstructor() { a = 90; Console.WriteLine("Ho inizializzato il tipo"); }
     public int getA() { return a; } //ritorno il valore di a
-    public void setA(int b) { a = b; } // modifico il valore di aS
+    public void setA(int b) { a = b; } // modifico il valore di a
 }
 
 //ANCHE UNA CLASSE PUO' ESSERE STATICA, E QUESTO COMPORTA CHE ESSA NON PUO' AVERE SOTTOCLASSI E CHE TUTTI I SUOI MEMBRI SIANO STATICI
