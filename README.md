@@ -29,4 +29,8 @@
 
 **Update 1.4:**  
 -Creata cartella PYTHON   
--Programma .py che stampa CENSURA all'infinito  
+-Programma .py che stampa CENSURA all'infinito 
+
+**Update 1.4.1:**
+-Programma che calcola il fattoriale in modo ricorsivo
+-Spostarlo nella cartella PYTHON
