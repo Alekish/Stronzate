@@ -32,4 +32,5 @@
 -Programma .py che stampa CENSURA all'infinito 
 
 **Update 1.4.1:**
+-Programma che calcola il fattoriale in modo ricorsivo
 
